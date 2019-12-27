@@ -1,4 +1,6 @@
 
+[![Build Status](https://wesleycamargoesx.visualstudio.com/Space%20Game%20-%20web%20Pipeline/_apis/build/status/wesleycamargo.mslearn-tailspin-spacegame-web?branchName=master)](https://wesleycamargoesx.visualstudio.com/Space%20Game%20-%20web%20Pipeline/_build/latest?definitionId=71&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
