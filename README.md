@@ -1,6 +1,8 @@
 
 [![Build Status](https://wesleycamargoesx.visualstudio.com/Space%20Game%20-%20web%20Pipeline/_apis/build/status/wesleycamargo.mslearn-tailspin-spacegame-web?branchName=master)](https://wesleycamargoesx.visualstudio.com/Space%20Game%20-%20web%20Pipeline/_build/latest?definitionId=71&branchName=master)
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=wes-space-game-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=wes-space-game-web)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
